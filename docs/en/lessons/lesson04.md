@@ -141,6 +141,15 @@ Based on your Phase 3 discussions, the AI generates a draft section by section.
 - Read each draft section and check: "Does this match what I want to say?"
 - Request changes for anything that doesn't feel right
 - Once all sections are ready, read through the entire report
+- When you're satisfied, **copy the text and paste it into Word**
+
+::: tip How to move Claude's output into Word
+Claude cannot create Word files directly. Follow these steps:
+1. **Select and copy** Claude's draft text (Ctrl + C)
+2. Open a **new document** in Word
+3. **Paste** the text (Ctrl + V)
+4. Add figures and adjust formatting in Word
+:::
 
 ### 3-6. Phase 5 — Export the Dialogue Summary
 

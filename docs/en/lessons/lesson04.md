@@ -28,7 +28,7 @@ AI is good at writing text. However, deciding **what to write about, what to arg
 In this lesson, instead of memorizing formatting rules, we'll take an approach of **experiencing the thinking process of report writing through dialogue with AI**.
 
 ```
-Traditional: Memorize 21 rules → Can't remember → Nothing sticks
+Traditional: Memorize tons of rules → Can't remember → Nothing sticks
 
 This lesson: Think through dialogue with AI → Experience the process
             → Let AI handle formatting → Thinking skills remain

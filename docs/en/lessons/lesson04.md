@@ -164,7 +164,7 @@ Finally, tell the AI: "Please output the dialogue summary." This produces:
 - Arguments and evidence for each section
 - What you discovered through the dialogue
 
-This summary serves as your blueprint for finishing the report outside of class.
+This summary serves as a **reflection record** of how you chose your theme, what you thought through, and how you built your argument. It will also be part of your submission.
 
 ---
 

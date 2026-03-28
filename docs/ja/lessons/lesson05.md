@@ -71,7 +71,13 @@ SD法では、**反対の意味を持つ形容詞ペア（両極尺度）** を�
 
 ### 2-1. 評価対象
 
-今回は **6種類のフォントサンプル（A〜F）** を評価します。同じ単語がまったく異なるフォントで表示されています。それぞれ見た瞬間に感じる印象を正直に評定してください。
+今回は **6種類のフォントサンプル（A〜F）** を評価します。同じ単語「デザイン」がまったく異なるフォントで表示されています。それぞれ見た瞬間に感じる印象を正直に評定してください。
+
+| | |
+|:---:|:---:|
+| ![サンプルA](/images/lesson05/font-sample-a.png) | ![サンプルB](/images/lesson05/font-sample-b.png) |
+| ![サンプルC](/images/lesson05/font-sample-c.png) | ![サンプルD](/images/lesson05/font-sample-d.png) |
+| ![サンプルE](/images/lesson05/font-sample-e.png) | ![サンプルF](/images/lesson05/font-sample-f.png) |
 
 ::: warning 注意
 - 「文字として読みやすいか」ではなく、**「見た瞬間の印象・感覚」** を評定する

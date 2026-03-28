@@ -68,7 +68,13 @@ In design, art, and entertainment, understanding how your work affects people �
 
 ### 2-1. What You're Evaluating
 
-Today you will evaluate **6 font samples (A–F)**. The same word is displayed in six very different fonts. Rate the impression each one gives you based on your immediate, instinctive reaction.
+Today you will evaluate **6 font samples (A–F)**. The same word ("デザイン" — "Design" in Japanese) is displayed in six very different fonts. Rate the impression each one gives you based on your immediate, instinctive reaction.
+
+| | |
+|:---:|:---:|
+| ![Sample A](/images/lesson05/font-sample-a.png) | ![Sample B](/images/lesson05/font-sample-b.png) |
+| ![Sample C](/images/lesson05/font-sample-c.png) | ![Sample D](/images/lesson05/font-sample-d.png) |
+| ![Sample E](/images/lesson05/font-sample-e.png) | ![Sample F](/images/lesson05/font-sample-f.png) |
 
 ::: warning Important
 - Rate your **immediate impression upon seeing the font** — not how readable it is

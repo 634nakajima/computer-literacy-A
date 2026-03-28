@@ -142,8 +142,8 @@ Based on your Phase 3 discussions, the AI generates a draft section by section.
 
 **What to do:**
 - Read each draft section and check: "Does this match what I want to say?"
-- Request changes for anything that doesn't feel right: "That's not quite what I mean…" or "I'd say it more like…"
-- **Don't accept the AI's output as-is — keep refining through dialogue until it reads naturally as your own writing**
+- For anything that doesn't feel right, **ask the AI to revise it, or rewrite it yourself**: "That's not quite what I mean…" or "I'd say it more like…"
+- **Don't accept the AI's output as-is — keep refining until it reads naturally as your own writing**
 - Once all sections are ready, read through the entire report
 - When you're satisfied, **copy the text and paste it into Word**
 

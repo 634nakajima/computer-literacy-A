@@ -207,6 +207,137 @@ This summary serves as your blueprint for finishing the report outside of class.
 
 ---
 
+## 5. Polishing Your Report — Word Formatting Guide
+
+After pasting Claude's draft into Word, use the following techniques to format your report properly. These build on the font, alignment, and indentation skills from Lesson 3.
+
+### 5-1. Inserting Images
+
+Add screenshots or images of the work you're analyzing.
+
+**Steps:**
+
+1. Place your cursor where you want the image
+2. Go to **"Insert" tab** → **"Pictures"** → **"This Device"**
+3. Select your image file and click **"Insert"**
+
+**Resizing:**
+- Click the image to select it, then drag the corner handles (○) to resize
+- Hold **Shift while dragging** to maintain the aspect ratio
+
+**Positioning:**
+- With the image selected, go to **"Picture Format" tab** → **"Wrap Text"** → **"In Line with Text"**
+
+::: tip How to take a screenshot
+- **Windows**: `Windows + Shift + S` to capture part of the screen → paste into Paint or Word
+- **Mac**: `Command + Shift + 4` to capture part of the screen → saved to desktop
+:::
+
+### 5-2. Adding Figure Captions (Numbers and Titles)
+
+In a report, every figure must have a **number and descriptive title**.
+
+**Steps:**
+
+1. Create a new line directly below the image (place cursor after the image and press Enter)
+2. Type **"Figure 1: [descriptive title]"**
+3. Set the caption line to **center alignment**
+4. Use a slightly smaller font size than the body text (e.g., 9pt)
+
+**Good example:**
+```
+Figure 1: Elemental reaction effects in Genshin Impact
+```
+
+**Bad example:**
+```
+Game screenshot 1    ← doesn't describe what it shows
+Screenshot          ← no number
+```
+
+::: warning Always reference figures in the text
+Placing a figure without mentioning it in the text is not enough. Always write something like "Figure 1 shows…" in the body text.
+:::
+
+### 5-3. Heading Numbers and Styles
+
+Each chapter of your report should have numbered headings.
+
+**Steps:**
+
+1. Place your cursor on the heading line
+2. Type the number manually, e.g., "**1. Introduction**", "**2. Overview**"
+3. In the **"Home" tab** → **"Styles" group**, select **"Heading 1"**
+
+**Benefits of using heading styles:**
+- Font, size, and alignment are automatically unified
+- Enables automatic table of contents generation (for longer reports)
+
+::: tip Changing the heading font
+Right-click "Heading 1" style → "Modify" to change the font to a sans-serif typeface (e.g., Yu Gothic).
+:::
+
+### 5-4. Adding Page Numbers
+
+Multi-page reports should include page numbers.
+
+**Steps:**
+
+1. Go to **"Insert" tab** → **"Page Number"**
+2. Select **"Bottom of Page"** → choose a simple design (e.g., "Plain Number 2")
+3. Page numbers are automatically added to all pages
+
+### 5-5. Creating a Reference List
+
+At the end of your report, list all sources you referenced.
+
+**Format:**
+
+```
+References
+
+[1] Author. "Title", Source (website or journal name), Year.
+    URL (for web pages), Date accessed.
+```
+
+**Example for websites:**
+
+```
+References
+
+[1] Nintendo. "The Legend of Zelda: Tears of the Kingdom Official Site",
+    https://www.nintendo.co.jp/zelda/totk/, Accessed March 2026.
+[2] T. Yamada. "The Role of Feedback in Game Design",
+    GamesStudies.jp, 2025.
+```
+
+**How to cite in the body text:**
+
+```
+✗ Flow theory suggests that immersion occurs.
+✓ Flow theory suggests that immersion occurs [2].
+```
+
+::: tip Placing citation numbers
+Type citation numbers like `[1]` in half-width characters. Place them **just before the period** at the end of the sentence.
+:::
+
+### 5-6. Final Formatting Checklist
+
+Before submitting, verify the following:
+
+- [ ] Headings use **sans-serif font**, body uses **serif font**
+- [ ] Font sizes are consistent (headings: 12–14pt, body: 10.5pt)
+- [ ] Paragraph first lines are **indented**
+- [ ] Images have **figure numbers and titles**
+- [ ] Figures are **referenced in the body text**
+- [ ] Citation numbers appear at **reference points** in the text
+- [ ] A **reference list** is included at the end
+- [ ] **Page numbers** are added
+- [ ] Writing style is **formal and consistent** throughout
+
+---
+
 ## Summary
 
 In this lesson, you learned **how to use AI as a thinking partner for report writing**:

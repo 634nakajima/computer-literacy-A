@@ -116,15 +116,18 @@ Once your theme is decided, the AI will propose a report outline.
 
 This is the most important phase. You'll discuss each section with the AI.
 
-**The AI will ask you:**
-- "What's the main point you want to make in this section?"
-- "What evidence supports that claim?"
-- "Can you point to a specific scene or feature that demonstrates this?"
+The AI will adapt its questions to each section's nature. Across all sections, the key is these **3 types of questions**:
+
+| Question | Purpose | Example |
+|----------|---------|---------|
+| **Why?** | Dig into reasons and evidence | "Why do you think so?" |
+| **Specifically?** | Turn abstract ideas into concrete details | "Can you point to a specific scene?" |
+| **How?** | Clarify mechanisms and methods | "How does that feature actually work?" |
 
 **What to do:**
 - Answer in your own words (it's OK if it's rough)
 - The AI will rephrase your ideas in academic language — check if the meaning is preserved
-- If you can't think of evidence, say so — the AI will provide hints and help with research
+- If you get stuck, say so — the AI will provide hints and help with research
 
 ::: info Types of "evidence"
 - **Specific examples**: "In this game, every time you defeat an enemy, there's an effect and sound"
@@ -139,7 +142,8 @@ Based on your Phase 3 discussions, the AI generates a draft section by section.
 
 **What to do:**
 - Read each draft section and check: "Does this match what I want to say?"
-- Request changes for anything that doesn't feel right
+- Request changes for anything that doesn't feel right: "That's not quite what I mean…" or "I'd say it more like…"
+- **Don't accept the AI's output as-is — keep refining through dialogue until it reads naturally as your own writing**
 - Once all sections are ready, read through the entire report
 - When you're satisfied, **copy the text and paste it into Word**
 
@@ -168,17 +172,20 @@ This summary serves as your blueprint for finishing the report outside of class.
 
 ### 4-1. What to Do
 
-1. **Rewrite the draft in your own words**
-   - Don't just copy-paste the AI output — make it sound like your own writing
-   - Your perspective in the "Discussion" section is especially important
-2. **Add figures**
+The body text from Phase 4 — already refined through dialogue with AI — is now in your Word document. Outside of class, complete the following finishing tasks:
+
+1. **Add figures**
    - Include at least one screenshot or image related to the work
    - Add a number and title below each figure (e.g., "Figure 1: The game's main interface")
-3. **Add references**
+   - Reference each figure in the body text (e.g., "Figure 1 shows…")
+   - See "5. Word Formatting Guide" below for detailed steps
+2. **Add references**
    - List sources cited in your report at the end
-4. **Polish the formatting**
+   - Add citation numbers `[1]` at reference points in the body text
+3. **Polish the formatting**
+   - Apply heading styles, insert page numbers, etc.
    - You may give Claude the formatting rules (see appendix) and ask it to check your report
-   - Apply the Word formatting skills learned in Lesson 3
+   - See "5. Word Formatting Guide" for detailed steps
 
 ### 4-2. What to Submit
 

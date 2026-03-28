@@ -44,7 +44,7 @@ Reports do have formatting standards (see the appendix at the bottom of this pag
 
 ### Theme
 
-> **Choose a media work that has most influenced you (game, video, music, app, web service, etc.), analyze its interaction design, and argue why it captivates people.**
+> **Choose a media work that has most influenced you (game, video, music, app, web service, etc.), analyze the techniques behind its expression, and argue why it captivates people.**
 
 ### Requirements
 

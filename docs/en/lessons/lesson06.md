@@ -69,7 +69,7 @@ In an empty area of the class data sheet (e.g., starting at **column K**), enter
 | K6 | Sample E |
 | K7 | Sample F |
 
-In L2–L7, reference the "Like↔Dislike" column from the class averages table (e.g., enter `=G2` in L2, adjusting cell references to match your actual data layout).
+In L2–L7, reference the "Like↔Dislike" column from the class averages table (e.g., enter `=H2` in L2, adjusting cell references to match your actual data layout).
 
 ### 2-2. Insert a Bar Chart
 

@@ -71,17 +71,13 @@ Today, you'll use **Claude** to interactively construct the framework of your re
 ### 3-1. Set Up the "Report Writing Companion AI"
 
 1. Log in to [Claude](https://claude.ai/)
-2. Select **"Projects"** from the left sidebar (if available on your plan)
-3. Create a new project and paste the following template into the project instructions:
+2. Start a new chat
+3. Open the following link and **copy all the text** from the template:
 
 **Companion AI instruction template:**
 [report-writing-skill.md](https://634nakajima.github.io/computer-literacy-A/report-writing-skill.md)
 
-Copy the text from the link above and paste it into Claude's project instructions (or at the beginning of your chat).
-
-::: tip If you can't use the Projects feature
-Paste the template content as your first message in a regular chat, then tell Claude: "Please follow these instructions to help me write my report."
-:::
+4. Paste the copied text as your first message, and add "**Please follow these instructions to help me write my report**" at the end, then send
 
 ### 3-2. Phase 1 — Choose Your Theme (10–15 min)
 

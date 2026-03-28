@@ -3,7 +3,7 @@
 ## Goals for This Lesson
 
 - Send a formal email to the instructor via Gmail
-- Set up a Microsoft 365 account and create a Word document
+- Use AI to draft an email
 - Practice typing skills
 
 ---
@@ -100,42 +100,94 @@ Set up your university email on your phone so you never miss important messages.
 
 ---
 
-## 2. Microsoft 365 — Account Setup and Word
+## 2. Drafting an Email with AI
 
-At university, Microsoft Word is used for writing reports and documents. Let's set up your Microsoft 365 account first.
+Let's use AI (Claude) to create an email draft based on the formal email skills you learned in Section 1. AI is a powerful tool, but giving it **clear and specific instructions (prompts)** is key.
 
-### 2-1. Create your Microsoft account
+### 2-1. Access Claude
 
-1. Visit the [university's Microsoft 365 guide](https://www.cc.t-kougei.ac.jp/services/manuals/student_advantage_office365proplus/)
-2. Follow the instructions to create your university Microsoft 365 account
-3. Make a note of your password so you don't forget it
+1. Open [Claude](https://claude.ai/) in your browser
+2. Log in with your Google account (your university account is fine)
 
-::: tip Free while enrolled!
-Tokyo Polytechnic University students get free access to Microsoft 365 (Word, Excel, PowerPoint, etc.) throughout their enrollment.
+::: tip What is Claude?
+Claude is a conversational AI assistant developed by Anthropic. It can help with writing, summarizing, translating, and many other tasks.
 :::
 
-### 2-2. Create a self-introduction document in Word
+### 2-2. Ask Claude to draft an email
 
-1. Open Word from the desktop app, or go to [Microsoft 365 Online](https://www.office.com/)
-2. Click **"Blank document"** to create a new document
-3. Write a **self-introduction** document that includes:
+Try asking Claude to draft an email for the following scenario:
 
-**Content to include:**
+**Scenario:**
 
-- Your name
-- Student ID
-- Department and year
-- Hometown
-- Hobbies and interests
-- What you want to learn in this class
-- (You'll add your typing score later)
+> You won't be able to submit your Computer Literacy A assignment on time. You were feeling unwell (had a fever) and couldn't use your computer for several days. You want to email Professor Nakajima to request a deadline extension.
 
-::: tip Formatting hints
-- Try making the title **bold** or increasing the **font size** for readability
-- Don't worry too much about formatting yet — we'll cover Word in detail in Lesson 3
+**Try it out:**
+
+1. First, try giving a **vague prompt** like this:
+
+```
+Write an email asking for a deadline extension for my assignment.
+```
+
+2. Look at the output. You'll likely notice issues:
+   - The instructor's name is missing
+   - Your department and name aren't included
+   - The course name and specific situation are unclear
+
+### 2-3. Improve your prompt
+
+To get good output from AI, you need to give **specific instructions with sufficient context**. Rewrite your prompt using the formal email structure from Section 1.
+
+**Information to include in your prompt:**
+
+| Element | Example |
+|---------|---------|
+| Your role | 1st year, Dept. of Interactive Media, Tokyo Polytechnic University |
+| Recipient | Professor Nakajima (Computer Literacy A instructor) |
+| Purpose | Request a deadline extension for an assignment |
+| Reason | Couldn't use computer for several days due to illness (fever) |
+| Format | Formal university email (as learned in Section 1) |
+
+**Example of an improved prompt:**
+
+```
+Please draft a formal email with the following details:
+
+- From: Taro Kogei, 1st year, Dept. of Interactive Media,
+  Faculty of Arts, Tokyo Polytechnic University
+- To: Professor Nakajima (Computer Literacy A instructor)
+- Purpose: Request a deadline extension for an assignment
+- Reason: I had a fever and couldn't use my computer for several days
+- Format: Formal email to a university instructor
+- Include a greeting, self-introduction, and polite closing
+```
+
+3. Compare the outputs from before and after — notice **how much the result improved**
+
+### 2-4. Review and edit the output
+
+Never send an AI-generated email **as-is**. Always review it yourself.
+
+**Checklist:**
+
+- [ ] Is the instructor's name correct?
+- [ ] Are your department, student ID, and name correct?
+- [ ] Is the tone appropriate? (Not too formal, not too casual)
+- [ ] Does it contain any false information?
+- [ ] Does it read naturally as something you would write?
+
+::: warning Important mindset when using AI
+- AI output is a **draft (starting point)**. The final responsibility is yours
+- AI can produce **plausible-sounding falsehoods** (hallucinations). Always verify facts yourself
+- Be careful when entering personal information (student ID, phone number, etc.) into AI tools
 :::
 
-4. Save the file as **"SelfIntroduction_[StudentID]"** (e.g., `SelfIntroduction_2024000`)
+### 2-5. Send the completed email
+
+1. Edit and refine the AI output to create your **final email**
+2. Send it from Gmail to the instructor following the steps from Section 1
+   - To: `m.nakajima@int.t-kougei.ac.jp`
+   - Subject: `Assignment 2 (StudentID YourName)`
 
 ---
 
@@ -162,10 +214,7 @@ Speed and accuracy on the keyboard are essential for using a PC effectively. Sta
 ### 3-2. Record your best score
 
 1. Practice several times and note your **best score**
-2. Add the following to your **self-introduction Word document**:
-   - Typing score
-   - Level (E–S)
-   - Your thoughts and goals for improvement
+2. Keep your score and level — you'll use them in **Lesson 3** submissions
 
 ::: tip Tips for improving your typing
 - Keep your fingers on the **home position** (left index on `F`, right index on `J`)
@@ -182,14 +231,14 @@ Complete and submit the following:
 
 | # | Item | How to submit |
 |---|------|---------------|
-| 1 | Formal email | Send via Gmail to the instructor |
-| 2 | Self-introduction Word document (with typing score) | Submit as instructed in class |
+| 1 | Assignment 1 email (from Section 1) | Send via Gmail to the instructor |
+| 2 | Assignment 2 email (AI-assisted, from Section 2) | Send via Gmail to the instructor |
 
 ::: warning Pre-submission checklist
-- [ ] Does the email subject include your student ID and name?
-- [ ] Is the email body written in a formal style?
-- [ ] Does the Word document include your typing score?
-- [ ] Does the file name include your student ID?
+- [ ] Assignment 1: Does the subject include your student ID and name?
+- [ ] Assignment 1: Is the email body written in a formal style?
+- [ ] Assignment 2: Did you review and edit the AI output (not just copy-paste)?
+- [ ] Assignment 2: Does the subject include your student ID and name?
 :::
 
 ---
@@ -199,7 +248,7 @@ Complete and submit the following:
 In this lesson, you learned three things:
 
 1. **Gmail** — Setting up a signature and writing formal emails
-2. **Microsoft 365** — Account setup and creating a Word document
+2. **AI skills** — Drafting emails with Claude and writing effective prompts
 3. **Typing** — Practicing on e-typing and recording your score
 
-Next lesson, we'll dive deeper into **Word** formatting and document layout.
+Next lesson, we'll set up **Microsoft 365** accounts and learn about **Word** formatting and document layout.

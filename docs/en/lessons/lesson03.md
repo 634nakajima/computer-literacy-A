@@ -2,13 +2,35 @@
 
 ## Goals for This Lesson
 
+- Set up your Microsoft 365 account
 - Learn the basic formatting features in Word
 - Create a document with the same layout as the sample, using your own topic
 - Continue typing practice
 
 ---
 
-## 1. Check the Finished Example
+## 1. Microsoft 365 — Account Setup and Word
+
+At university, Microsoft Word is used for writing reports and documents. Let's set up your Microsoft 365 account first.
+
+### 1-1. Create your Microsoft account
+
+1. Visit the [university's Microsoft 365 guide](https://www.cc.t-kougei.ac.jp/services/manuals/student_advantage_office365proplus/)
+2. Follow the instructions to create your university Microsoft 365 account
+3. Make a note of your password so you don't forget it
+
+::: tip Free while enrolled!
+Tokyo Polytechnic University students get free access to Microsoft 365 (Word, Excel, PowerPoint, etc.) throughout their enrollment.
+:::
+
+### 1-2. Launch Word
+
+1. Open Word from the desktop app, or go to [Microsoft 365 Online](https://www.office.com/)
+2. Click **"Blank document"** to confirm you can create a new document
+
+---
+
+## 2. Check the Finished Example
 
 First, open the sample file **"Word基礎サンプル.docx"** to see what the finished document looks like.
 
@@ -16,7 +38,7 @@ First, open the sample file **"Word基礎サンプル.docx"** to see what the fi
 
 ![Overview of the sample document](/images/lesson03/sample-full.png)
 
-### 1-1. Structure of the Sample Document
+### 2-1. Structure of the Sample Document
 
 The sample document has the following structure:
 
@@ -29,7 +51,7 @@ The sample document has the following structure:
 | **Body text** | Justified, first-line indent on each paragraph |
 | **Numbered list** | Paragraph numbering (numbered list) |
 
-### 1-2. Page Setup
+### 2-2. Page Setup
 
 The sample document uses the following page settings. Take a moment to check them.
 
@@ -47,11 +69,11 @@ Go to **"Layout" tab** → **"Margins"** → **"Custom Margins"** to view or cha
 
 ---
 
-## 2. Learn Word Formatting
+## 3. Learn Word Formatting
 
 Let's learn each formatting technique step by step, using the sample as a reference.
 
-### 2-1. Changing the Font
+### 3-1. Changing the Font
 
 How to change the font (typeface) of text.
 
@@ -75,7 +97,7 @@ How to change the font (typeface) of text.
 - **Sans-serif fonts** (Yu Gothic, Arial) → Use for titles and headings (to stand out)
 :::
 
-### 2-2. Changing Font Size
+### 3-2. Changing Font Size
 
 How to change the size of text.
 
@@ -92,7 +114,7 @@ How to change the size of text.
 | Title | **14pt** |
 | Body text | **10.5pt** (Word's default) |
 
-### 2-3. Text Alignment
+### 3-3. Text Alignment
 
 Set whether text is aligned to the left, center, right, or both edges. In the sample, the date, department, and name are **right-aligned**, while the body text is **justified**.
 
@@ -118,7 +140,7 @@ Set whether text is aligned to the left, center, right, or both edges. In the sa
 Justified alignment makes both the left and right edges of each line align neatly. This gives the document a polished appearance, so it's commonly used for body text in reports and essays.
 :::
 
-### 2-4. First-line Indent
+### 3-4. First-line Indent
 
 "Indenting" means shifting the first line of a paragraph slightly to the right. In Japanese writing, it is standard to indent the first line of every paragraph by one character width. The sample document shows this clearly.
 
@@ -144,7 +166,7 @@ Justified alignment makes both the left and right edges of each line align neatl
 Indentation is needed **at the start of every paragraph**. Check the sample document to see which paragraphs are indented.
 :::
 
-### 2-5. Paragraph Numbering (Numbered Lists)
+### 3-5. Paragraph Numbering (Numbered Lists)
 
 How to add numbers to a list. In the sample document, this feature is used for listing goals.
 
@@ -160,11 +182,11 @@ Click the **▼** arrow next to the Numbering button to choose different styles 
 
 ---
 
-## 3. Create Your Own Document
+## 4. Create Your Own Document
 
 Using the formatting skills you've learned, create a document with the **same layout** as the sample — but with your own content.
 
-### 3-1. Choose a Topic
+### 4-1. Choose a Topic
 
 Pick one topic from the list below and write an essay about it. You're free to choose any topic, but here are some suggestions:
 
@@ -174,7 +196,7 @@ Pick one topic from the list below and write an essay about it. You're free to c
 - Something I'm interested in lately
 - Other (free topic)
 
-### 3-2. Document Structure
+### 4-2. Document Structure
 
 Create your document with the same structure as the sample:
 
@@ -188,7 +210,7 @@ Create your document with the same structure as the sample:
    - Write multiple paragraphs (aim for at least 300 characters total)
 6. **Numbered list** (use paragraph numbering to create a numbered list)
 
-### 3-3. Change the Page Setup
+### 4-3. Change the Page Setup
 
 Match the sample's page settings:
 
@@ -200,7 +222,7 @@ Match the sample's page settings:
    - Right: **3.0 cm**
 3. Click "OK"
 
-### 3-4. Formatting Checklist
+### 4-4. Formatting Checklist
 
 As you work, check off each item:
 
@@ -214,7 +236,7 @@ As you work, check off each item:
 
 ---
 
-## 4. Typing Practice
+## 5. Typing Practice
 
 Continue your typing practice from last session.
 
@@ -250,10 +272,11 @@ Continue your typing practice from last session.
 
 In this lesson, you learned:
 
-1. **Changing fonts** — Yu Gothic (headings) vs. Yu Mincho (body text)
-2. **Font size** — 14pt for titles, 10.5pt for body text
-3. **Text alignment** — Right-align, center, justify
-4. **First-line indent** — Indenting the first line of each paragraph
-5. **Paragraph numbering** — Creating numbered lists
+1. **Microsoft 365** — Account setup and launching Word
+2. **Changing fonts** — Yu Gothic (headings) vs. Yu Mincho (body text)
+3. **Font size** — 14pt for titles, 10.5pt for body text
+4. **Text alignment** — Right-align, center, justify
+5. **First-line indent** — Indenting the first line of each paragraph
+6. **Paragraph numbering** — Creating numbered lists
 
 Next lesson, we'll explore more advanced Word features.

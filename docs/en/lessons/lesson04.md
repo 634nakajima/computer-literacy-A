@@ -77,7 +77,11 @@ Today, you'll use **Claude** to interactively construct the framework of your re
 **Companion AI instruction template:**
 [report-writing-skill.md](https://634nakajima.github.io/computer-literacy-A/report-writing-skill.md)
 
-4. Paste the copied text as your first message, and add "**Please follow these instructions to help me write my report**" at the end, then send
+4. Paste the copied text as your first message. Press **Shift + Enter** to add a new line, then type "**Please follow these instructions to help me write my report**" and send
+
+::: warning Watch out for the Enter key
+In Claude's chat, pressing **Enter** sends the message immediately. To add a new line, use **Shift + Enter** instead.
+:::
 
 ### 3-2. Phase 1 — Choose Your Theme (10–15 min)
 

@@ -77,7 +77,11 @@ AIは文章を書くことが得意です。しかし、**何について、ど�
 **伴走AIの指示テンプレート：**
 [report-writing-skill.md](https://634nakajima.github.io/computer-literacy-A/report-writing-skill.md)
 
-4. 貼り付けたテキストの末尾に「**この指示に従ってレポート作成を手伝ってください**」と追記して送信する
+4. 貼り付けたテキストの末尾で **Shift + Enter** を押して改行し、「**この指示に従ってレポート作成を手伝ってください**」と追記してから送信する
+
+::: warning Enterキーに注意
+Claudeのチャット欄では **Enter** を押すとメッセージが送信されます。改行したいときは **Shift + Enter** を使ってください。
+:::
 
 ### 3-2. Phase 1 — テーマを選ぶ（10〜15分）
 

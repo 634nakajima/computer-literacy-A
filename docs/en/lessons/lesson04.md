@@ -30,12 +30,11 @@ In this lesson, instead of memorizing formatting rules, we'll take an approach o
 ```
 Traditional: Memorize tons of rules → Can't remember → Nothing sticks
 
-This lesson: Think through dialogue with AI → Experience the process
-            → Let AI handle formatting → Thinking skills remain
+This lesson: Think through dialogue with AI → Experience the process → Thinking skills remain
 ```
 
 ::: tip Do I really not need to memorize formatting rules?
-Reports do have formatting standards (see the appendix at the bottom of this page). However, you can **give these rules to AI and ask it to apply them automatically**. What matters most is **thinking about what to write**.
+Reports do have formatting standards (see the appendix at the bottom of this page). What matters most is first **thinking about what to write**. For formatting, refer to the appendix and "5. Word Formatting Guide".
 :::
 
 ---
@@ -66,21 +65,21 @@ Reports do have formatting standards (see the appendix at the bottom of this pag
 
 ## 3. Build Your Report with AI (In-Class Exercise)
 
-Today, you'll use **Claude** to interactively construct the framework of your report.
+Today, you'll use **Gemini** (a dedicated Gem) to interactively construct the framework of your report.
 
 ### 3-1. Set Up the "Report Writing Companion AI"
 
-1. Log in to [Claude](https://claude.ai/)
-2. Start a new chat
-3. Open the following link and **copy all the text** from the template:
+1. Open the dedicated Gem from the link below:
 
-**Companion AI instruction template:**
-[report-writing-skill.md](https://634nakajima.github.io/computer-literacy-A/report-writing-skill.md)
+**Report Writing Companion AI (Gem):**
+[https://gemini.google.com/gem/17ZCrj9sKrYTeiFRTmOAxhsodtGMVmQtO](https://gemini.google.com/gem/17ZCrj9sKrYTeiFRTmOAxhsodtGMVmQtO?usp=sharing)
 
-4. Paste the copied text as your first message. Press **Shift + Enter** to add a new line, then type "**Please follow these instructions to help me write my report**" and send
+2. Log in with your Google account if prompted
+3. If the model selector at the top shows "**Fast mode**", switch it to **"Pro mode"** instead
+4. Type "**Let's begin**" in the chat and send
 
 ::: warning Watch out for the Enter key
-In Claude's chat, pressing **Enter** sends the message immediately. To add a new line, use **Shift + Enter** instead.
+In the chat, pressing **Enter** sends the message immediately. To add a new line, use **Shift + Enter** instead.
 :::
 
 ### 3-2. Phase 1 — Choose Your Theme (10–15 min)
@@ -147,9 +146,8 @@ Based on your Phase 3 discussions, the AI generates a draft section by section.
 - Once all sections are ready, read through the entire report
 - When you're satisfied, **copy the text and paste it into Word**
 
-::: tip How to move Claude's output into Word
-Claude cannot create Word files directly. Follow these steps:
-1. **Select and copy** Claude's draft text (Ctrl + C)
+::: tip How to move Gemini's output into Word
+1. **Select and copy** Gemini's draft text (Ctrl + C)
 2. Open a **new document** in Word
 3. **Paste** the text (Ctrl + V)
 4. Add figures and adjust formatting in Word
@@ -184,7 +182,6 @@ The body text from Phase 4 — already refined through dialogue with AI — is n
    - Add citation numbers `[1]` at reference points in the body text
 3. **Polish the formatting**
    - Apply heading styles, insert page numbers, etc.
-   - You may give Claude the formatting rules (see appendix) and ask it to check your report
    - See "5. Word Formatting Guide" for detailed steps
 
 ### 4-2. What to Submit
@@ -192,14 +189,12 @@ The body text from Phase 4 — already refined through dialogue with AI — is n
 | # | Item | Details |
 |---|------|---------|
 | 1 | **Report** (Word document) | 3–5 pages with figures and references |
-| 2 | **Claude conversation share link** | Get the URL using Claude's share feature |
+| 2 | **Dialogue summary** | Paste the Phase 5 summary output at the end of your Word document |
 
-::: tip How to share your Claude conversation
-1. In the Claude chat, click the **share button** (↗ icon) in the top right
-2. Click "Create link"
-3. Copy the generated URL and submit it
-
-※ If the share feature isn't available, attach the "Dialogue Summary" from Phase 5 at the end of your Word document instead.
+::: tip How to attach the dialogue summary
+1. In Phase 5, ask Gemini: "Please output the dialogue summary"
+2. Copy the output text
+3. Paste it at the end of your Word report
 :::
 
 ::: warning Pre-submission checklist
@@ -209,7 +204,7 @@ The body text from Phase 4 — already refined through dialogue with AI — is n
 - [ ] Are **figures** included with numbers and titles?
 - [ ] Are **references** listed?
 - [ ] Is the writing style formal and consistent?
-- [ ] Is the Claude conversation link (or dialogue summary) included?
+- [ ] Is the **dialogue summary** attached at the end of the Word document?
 :::
 
 ---
@@ -360,7 +355,7 @@ In this lesson, you learned **how to use AI as a thinking partner for report wri
 
 ## Appendix: Report Formatting Rules
 
-The following rules are the basics of report formatting. You can give these to Claude with the instruction "Check my report against these rules" for automatic review.
+The following rules are the basics of report formatting. Use them as a checklist when finishing your report.
 
 ### Format Rules
 

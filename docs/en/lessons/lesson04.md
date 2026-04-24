@@ -59,7 +59,7 @@ Reports do have formatting standards (see the appendix at the bottom of this pag
 |------|---------|
 | **Topic** | Choose one media work that strongly influenced you |
 | **Content** | Not just opinions — include **analysis** and **arguments** |
-| **Length** | Word document, 3–5 pages in reading view |
+| **Length** | Word document, 3–4 pages in reading view |
 | **Visuals** | Include at least one screenshot or figure |
 | **References** | Cite at least one reference source |
 | **Submission** | Submit as instructed in class |
@@ -213,7 +213,7 @@ Outside of class, complete the following finishing tasks:
 
 | # | Item | Details |
 |---|------|---------|
-| 1 | **Report** (Word document) | 3–5 pages with figures and references |
+| 1 | **Report** (Word document) | 3–4 pages with figures and references |
 | 2 | **Dialogue chat link** | A sharing link obtained from "Share" (top-right) in Manus |
 
 ::: tip How to get the dialogue chat link

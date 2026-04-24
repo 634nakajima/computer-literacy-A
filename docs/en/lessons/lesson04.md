@@ -7,6 +7,14 @@
 - Learn the flow: theme selection → structure design → arguments and evidence → drafting
 - Complete the report as a take-home assignment
 
+::: info The aim of this lesson
+The goal of today's exercise is to **actually experience AI-assisted, dialogue-based report writing**. After trying it, reflect on whether this approach works for you — "this suits me" or "I'd rather think and write more on my own." **Both choices are valid.**
+:::
+
+::: warning Don't take AI output at face value
+The structures, expressions, and evidence that AI suggests are **not always accurate or appropriate**. AI output may contain factual errors or off-target analysis. Treat everything AI produces as a **starting point**, and always **verify and revise** with your own eyes to make sure the content matches your intent and the facts.
+:::
+
 ---
 
 ## 1. What Is a Report?
@@ -65,18 +73,27 @@ Reports do have formatting standards (see the appendix at the bottom of this pag
 
 ## 3. Build Your Report with AI (In-Class Exercise)
 
-Today, you'll use **Gemini** (a dedicated Gem) to interactively construct the framework of your report.
+Today, you'll use **Manus AI** (a dedicated skill) to interactively construct the framework of your report.
 
 ### 3-1. Set Up the "Report Writing Companion AI"
 
-1. Open the dedicated Gem from the link below:
+First, download the dedicated skill and install it in Manus.
 
-**Report Writing Companion AI (Gem):**
-[https://gemini.google.com/gem/17ZCrj9sKrYTeiFRTmOAxhsodtGMVmQtO](https://gemini.google.com/gem/17ZCrj9sKrYTeiFRTmOAxhsodtGMVmQtO?usp=sharing)
+**Download the skill:**
+[report-writing-companion.zip](/report-writing-companion.zip)
 
-2. Log in with your Google account if prompted
-3. If the model selector at the top shows "**Fast mode**", switch it to **"Pro mode"** instead
-4. Type "**Let's begin**" in the chat and send
+**Installation steps:**
+
+1. Download **report-writing-companion.zip** from the link above
+2. Go to [manus.im](https://manus.im) and log in (account created in Lesson 3)
+3. Click **"Settings"** (bottom-left) → **"Skills"** → **"+ Add"** → **"Upload Skill"**
+4. Select the downloaded zip file to upload it
+5. Open the added **"Report Writing Companion"** skill
+6. Type "**Let's begin**" in the chat and send
+
+::: warning Free plan usage limits
+Manus's free plan uses a **credit-based usage limit**. Once your credits run out, you won't be able to use it further. Avoid unnecessary back-and-forth and work through the exercise efficiently.
+:::
 
 ::: warning Watch out for the Enter key
 In the chat, pressing **Enter** sends the message immediately. To add a new line, use **Shift + Enter** instead.
@@ -146,11 +163,10 @@ Based on your Phase 3 discussions, the AI generates a draft section by section.
 - Once all sections are ready, read through the entire report
 - When you're satisfied, **copy the text and paste it into Word**
 
-::: tip How to move Gemini's output into Word
-1. **Select and copy** Gemini's draft text (Ctrl + C)
-2. Open a **new document** in Word
-3. **Paste** the text (Ctrl + V)
-4. Add figures and adjust formatting in Word
+::: tip How to export Manus's report to Word
+1. Once all sections are ready, tell Manus: "**Please export this as a Word document**"
+2. **Download** the Word file (.docx) Manus generates
+3. Open it in Word and add figures and adjust formatting
 :::
 
 ### 3-6. Phase 5 — Export the Dialogue Summary
@@ -162,7 +178,7 @@ Finally, tell the AI: "Please output the dialogue summary." This produces:
 - Arguments and evidence for each section
 - What you discovered through the dialogue
 
-This summary serves as a **reflection record** of how you chose your theme, what you thought through, and how you built your argument. It will also be part of your submission.
+This summary serves as a **reflection record** of how you chose your theme, what you thought through, and how you built your argument. Once the dialogue is complete, click **"Share"** in the top-right corner of the chat screen to get a link — this link will be part of your submission.
 
 ---
 
@@ -170,7 +186,16 @@ This summary serves as a **reflection record** of how you chose your theme, what
 
 ### 4-1. What to Do
 
-The body text from Phase 4 — already refined through dialogue with AI — is now in your Word document. Outside of class, complete the following finishing tasks:
+Use the content developed during the in-class exercise as a foundation, and finish the report in whatever way works best for you.
+
+::: tip Choose the approach that suits you
+- **If you want to keep using AI**: Build on the draft from Phase 4 and finish by adding figures, references, and formatting
+- **If you want to write more yourself**: Use the structure and ideas from the in-class dialogue as a guide, then rewrite or expand in your own words at your own pace
+
+Either way, what matters most is the quality of the final report.
+:::
+
+Outside of class, complete the following finishing tasks:
 
 1. **Add figures**
    - Include at least one screenshot or image related to the work
@@ -189,12 +214,12 @@ The body text from Phase 4 — already refined through dialogue with AI — is n
 | # | Item | Details |
 |---|------|---------|
 | 1 | **Report** (Word document) | 3–5 pages with figures and references |
-| 2 | **Dialogue summary** | Paste the Phase 5 summary output at the end of your Word document |
+| 2 | **Dialogue chat link** | A sharing link obtained from "Share" (top-right) in Manus |
 
-::: tip How to attach the dialogue summary
-1. In Phase 5, ask Gemini: "Please output the dialogue summary"
-2. Copy the output text
-3. Paste it at the end of your Word report
+::: tip How to get the dialogue chat link
+1. In Phase 5, ask Manus: "Please output the dialogue summary"
+2. Once the summary is displayed, click **"Share"** in the **top-right corner** of the chat screen
+3. Copy the link that appears and submit it alongside your report
 :::
 
 ::: warning Pre-submission checklist
@@ -204,14 +229,14 @@ The body text from Phase 4 — already refined through dialogue with AI — is n
 - [ ] Are **figures** included with numbers and titles?
 - [ ] Are **references** listed?
 - [ ] Is the writing style formal and consistent?
-- [ ] Is the **dialogue summary** attached at the end of the Word document?
+- [ ] Have you obtained the **dialogue chat link** via "Share"?
 :::
 
 ---
 
 ## 5. Polishing Your Report — Word Formatting Guide
 
-After pasting Claude's draft into Word, use the following techniques to format your report properly. These build on the font, alignment, and indentation skills from Lesson 3.
+After opening the Word file exported by Manus, use the following techniques to format your report properly. These build on the font, alignment, and indentation skills from Lesson 3.
 
 ### 5-1. Inserting Images
 

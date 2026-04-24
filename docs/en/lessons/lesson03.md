@@ -5,6 +5,7 @@
 - Set up your Microsoft 365 account
 - Learn the basic formatting features in Word
 - Create a document with the same layout as the sample, using your own topic
+- Use Manus AI to check your document's formatting
 - Continue typing practice
 
 ---
@@ -236,7 +237,46 @@ As you work, check off each item:
 
 ---
 
-## 5. Typing Practice
+## 5. Checking Document Formatting with AI
+
+Use the **Manus AI** skill to check the formatting of the document you created in section 4.
+
+### 5-1. Create a Manus AI Account (first time only)
+
+1. Go to [manus.im](https://manus.im)
+2. Click **"Log in"** on the left side of the screen
+3. Click **"Continue with Google"**
+4. Enter your university Gmail address (`@t-kougei.ac.jp`) and password to sign in
+
+::: warning Free plan usage limits
+Manus's free plan uses a **credit-based usage limit**. Once your credits run out, you won't be able to use it further. Avoid unnecessary back-and-forth and work efficiently.
+:::
+
+### 5-2. Install the Formatting Checker Skill
+
+**Download the skill:**
+[report-formatter-docx.zip](/report-formatter-docx.zip)
+
+**Installation steps:**
+
+1. Download **report-formatter-docx.zip** from the link above
+2. In Manus, click **"Settings"** (bottom-left) → **"Skills"** → **"+ Add"** → **"Upload Skill"**
+3. Select the downloaded file to upload it
+4. Open the added **"Formatting Checker"** skill
+
+### 5-3. Check Your Document
+
+1. **Attach the Word file** you created in section 4 to the chat and send it
+2. Review the formatting issues the AI points out
+3. Go back to your Word document and fix the flagged items
+
+::: warning Don't take AI feedback at face value
+AI suggestions are **not always accurate or appropriate**. Use your own judgment to decide whether each issue is a real problem before making changes.
+:::
+
+---
+
+## 6. Typing Practice
 
 Continue your typing practice from last session.
 
@@ -278,5 +318,6 @@ In this lesson, you learned:
 4. **Text alignment** — Right-align, center, justify
 5. **First-line indent** — Indenting the first line of each paragraph
 6. **Paragraph numbering** — Creating numbered lists
+7. **Manus AI formatting check** — Using an AI skill to review and fix document formatting
 
 Next lesson, we'll explore more advanced Word features.

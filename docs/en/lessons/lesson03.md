@@ -59,13 +59,10 @@ The sample document uses the following page settings. Take a moment to check the
 | Item | Setting |
 |------|---------|
 | Paper size | A4 |
-| Top margin | 3.5 cm |
-| Bottom margin | 3.0 cm |
-| Left margin | 3.0 cm |
-| Right margin | 3.0 cm |
+| Margins | Moderate |
 
 ::: tip How to Check Page Setup
-Go to **"Layout" tab** → **"Margins"** → **"Custom Margins"** to view or change settings.
+Go to **"Layout" tab** → **"Margins"** to view or change settings.
 :::
 
 ---
@@ -215,13 +212,8 @@ Create your document with the same structure as the sample:
 
 Match the sample's page settings:
 
-1. Go to **"Layout" tab** → **"Margins"** → **"Custom Margins"**
-2. Set the following values:
-   - Top: **3.5 cm**
-   - Bottom: **3.0 cm**
-   - Left: **3.0 cm**
-   - Right: **3.0 cm**
-3. Click "OK"
+1. Go to **"Layout" tab** → **"Margins"**
+2. Select **"Moderate"** from the list
 
 ### 4-4. Formatting Checklist
 
@@ -233,7 +225,7 @@ As you work, check off each item:
 - [ ] Body text is **justified**
 - [ ] Paragraphs have a **first-line indent**
 - [ ] List items use **paragraph numbering**
-- [ ] Margins match the specified settings
+- [ ] Margins are set to **"Moderate"**
 
 ---
 

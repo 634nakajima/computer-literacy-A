@@ -182,6 +182,34 @@ How to add numbers to a list. In the sample document, this feature is used for l
 Click the **▼** arrow next to the Numbering button to choose different styles (1. 2. 3. / ① ② ③ / a. b. c., etc.).
 :::
 
+### 3-6. Adjusting Spacing
+
+Adding appropriate space between paragraphs makes a document easier to read. Here, you'll add spacing between the student ID/name and the body text, and before and after the numbered list.
+
+**Add spacing between the student name and body text:**
+
+1. Place your cursor on the student ID & name line
+2. Click the **Line and Paragraph Spacing** icon (<img src="/images/line-spacing-icon.png" alt="Line and Paragraph Spacing" style="height:1.2em;vertical-align:middle;display:inline;margin:0;">) in the **"Home" tab**
+3. Click **"Add Space After Paragraph"** from the menu
+
+**Add spacing before and after the numbered list:**
+
+1. Place your cursor on the **first line** of the numbered list
+2. Click the **Line and Paragraph Spacing** icon and select **"Add Space Before Paragraph"**
+3. Place your cursor on the **last line** of the numbered list
+4. Click the **Line and Paragraph Spacing** icon and select **"Add Space After Paragraph"**
+
+**To set a specific spacing value:**
+
+1. Place your cursor in the target paragraph
+2. Click the **Line and Paragraph Spacing** icon → **"Line Spacing Options..."**
+3. Under the **"Spacing"** section, change **"After"** to **"12pt"** or **"6pt"**
+4. Click **"OK"**
+
+::: tip Spacing Guidelines
+**12pt** (about 4mm) is roughly equivalent to one line of space. If it feels too wide, try reducing it to **6pt**.
+:::
+
 ---
 
 ## 4. Create Your Own Document
@@ -230,6 +258,8 @@ As you work, check off each item:
 - [ ] Paragraphs have a **first-line indent**
 - [ ] List items use **paragraph numbering**
 - [ ] Margins are set to **"Moderate"**
+- [ ] **Spacing** is added between the student name and body text
+- [ ] **Spacing** is added before and after the numbered list
 
 ---
 
@@ -314,6 +344,7 @@ In this lesson, you learned:
 4. **Text alignment** — Right-align, center, justify
 5. **First-line indent** — Indenting the first line of each paragraph
 6. **Paragraph numbering** — Creating numbered lists
-7. **Manus AI formatting check** — Using an AI skill to review and fix document formatting
+7. **Adjusting spacing** — Adding space between the student name and body text, and before/after the list
+8. **Manus AI formatting check** — Using an AI skill to review and fix document formatting
 
 Next lesson, we'll explore more advanced Word features.

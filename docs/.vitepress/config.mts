@@ -4,6 +4,7 @@ export default defineConfig({
   base: '/computer-literacy-A/',
   title: 'コンピュータリテラシーA',
   description: 'PCの基本操作・Word文書作成・Excelスプレッドシート編集',
+  ignoreDeadLinks: [/\.docx$/],
 
   locales: {
     ja: {

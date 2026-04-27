@@ -33,7 +33,11 @@ Tokyo Polytechnic University students get free access to Microsoft 365 (Word, Ex
 
 ## 2. Check the Finished Example
 
-First, open the sample file **"Word基礎サンプル.docx"** to see what the finished document looks like.
+First, download the sample file and open it to see what the finished document looks like.
+
+::: tip Download the Sample File
+Click [Word基礎サンプル.docx](/Word基礎サンプル.docx) to download it.
+:::
 
 **▼ Overview of the Sample Document**
 
